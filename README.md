@@ -1,6 +1,6 @@
 # caffesehat
 
-Aplikasi ini dibuat untuk tugas mata kuliah Pemrograman Mobile
+Aplikasi ini dibuat untuk tugas UAS mata kuliah Pemrograman Mobile
 <br>
 Oleh :<br>
 Wahyu Prasetyo (18051204076) <br>
